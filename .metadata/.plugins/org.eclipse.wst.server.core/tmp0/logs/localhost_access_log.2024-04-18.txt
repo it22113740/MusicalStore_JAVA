@@ -1,0 +1,16 @@
+127.0.0.1 - - [18/Apr/2024:13:50:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/index.jsp HTTP/1.1" 200 5661
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/ladis-bag.jpg HTTP/1.1" 200 63124
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/female-shoes.jpg HTTP/1.1" 200 11426431
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/men-suits.jpg HTTP/1.1" 200 39753
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/men-watch.jpg HTTP/1.1" 200 2852412
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/smoking-e-cigarette.jpg HTTP/1.1" 200 90616
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:25 +0530] "GET /CRUD1/product-images/smoking-e-cigarette-2.jpg HTTP/1.1" 200 36393
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:26 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:31 +0530] "GET /CRUD1/cart.jsp HTTP/1.1" 200 2240
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:32 +0530] "GET /CRUD1/index.jsp HTTP/1.1" 200 5661
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:33 +0530] "GET /CRUD1/add-to-cart?id=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:33 +0530] "GET /CRUD1/index.jsp HTTP/1.1" 200 5662
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:34 +0530] "GET /CRUD1/add-to-cart?id=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:34 +0530] "GET /CRUD1/index.jsp HTTP/1.1" 200 5662
+0:0:0:0:0:0:0:1 - - [18/Apr/2024:13:50:36 +0530] "GET /CRUD1/add-to-cart?id=1 HTTP/1.1" 200 114
